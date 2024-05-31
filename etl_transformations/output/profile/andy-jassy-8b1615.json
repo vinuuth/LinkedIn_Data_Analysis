@@ -1,0 +1,273 @@
+{
+  "public_identifier": "andy-jassy-8b1615",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andy-jassy-8b1615/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240305%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240305T184542Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d6782cc6d2d3fdd7acf6bfc5283e964832a8fcc8b8b8c03bae65b8a05ec36d8f",
+  "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/andy-jassy-8b1615/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240305%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240305T184542Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e16818fb67795dcd86b51ce71a13aad49178fad6ce9766715a41296c6cf6dbee",
+  "first_name": "Andy",
+  "last_name": "Jassy",
+  "full_name": "Andy Jassy",
+  "follower_count": 781055,
+  "occupation": "President and CEO at Amazon",
+  "headline": "President and CEO at Amazon",
+  "summary": null,
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Greater Seattle Area",
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Amazon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon/",
+      "title": "President and CEO",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_400_400/0/1630640869849/amazon_logo?e=1717027200&v=beta&t=rYwgN76aphMlmdgEg-jb_aRxNXO5xNJko0BHLU46WEY"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 1997
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2021
+      },
+      "company": "Amazon Web Services (AWS)",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon-web-services/",
+      "title": "CEO, Amazon Web Services (AWS)",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/C560BAQER_QnUTXrPJw/company-logo_400_400/0/1670264051233/amazon_web_services_logo?e=1717027200&v=beta&t=71NJ1O9RMEP1aYcCMgomNfmuua5lLlDk3nr3xA380H8"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1995
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 1997
+      },
+      "field_of_study": null,
+      "degree_name": "MBA",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1717027200&v=beta&t=g_DD647YlJpGIlwNYIwIDpgKJMp-n_QxTz7vPhZbMG0",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 1986
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 1990
+      },
+      "field_of_study": null,
+      "degree_name": "AB",
+      "school": "Harvard University",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQF5t62bcL0e9g/company-logo_400_400/0/1631318058235?e=1717027200&v=beta&t=hW-Np1OGmlpAMD45fX7hxs4kc2nK-8dlafxXaqgwiUo",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 279,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/doug-herrington",
+      "name": "Doug Herrington",
+      "summary": "CEO Worldwide Amazon Stores",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dharmeshmmehta",
+      "name": "Dharmesh Mehta",
+      "summary": "Vice President at Amazon",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/susan-wojcicki-b136a99",
+      "name": "Susan Wojcicki",
+      "summary": "CEO of YouTube",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/amit-agarwal-86b33",
+      "name": "Amit Agarwal",
+      "summary": "SVP Emerging Markets, Amazon",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/anjalisud",
+      "name": "Anjali Sud",
+      "summary": "CEO, Tubi | Former CEO, Vimeo (NASDAQ:VMEO) | Board of Directors, Dolby (NYSE:DLB)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/adamselipsky",
+      "name": "Adam Selipsky",
+      "summary": "CEO at Amazon Web Services (AWS)",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/samirkumar3",
+      "name": "Samir Kumar",
+      "summary": "Vice President, International Consumer, Amazon",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/satyanadella",
+      "name": "Satya Nadella",
+      "summary": "Chairman and CEO at Microsoft",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/dara-khosrowshahi-70949862",
+      "name": "Dara Khosrowshahi",
+      "summary": "CEO at Uber",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/reedhastings",
+      "name": "Reed Hastings",
+      "summary": "Chairman Powder & Netflix",
+      "location": null
+    }
+  ],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "The event has started in APAC and we’ll launch across Europe and then the Americas in the coming hours - Prime Big Deal Day’s are here! It’s the…",
+      "link": "https://www.linkedin.com/posts/jamilghani_prime-big-deal-days-2023-activity-7117179192525406208-jPvP",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "The attacks against civilians in Israel are shocking and painful to watch. I have been in touch with our teammates there to make sure we do…",
+      "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_the-attacks-against-civilians-in-israel-are-activity-7117341321870118912-czJM",
+      "activity_status": "Posted by Andy Jassy"
+    },
+    {
+      "title": "Our Amazon Fashion team just introduced Coach in the Amazon store and I was excited to check it out for myself. I purchased this new wallet last…",
+      "link": "https://www.linkedin.com/posts/doug-herrington_our-amazon-fashion-team-just-introduced-coach-activity-7114735911556300800-tuw-",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "Multi-factor Authentication (MFA) is one of the simplest and most effective mechanisms for individuals and businesses to protect themselves online…",
+      "link": "https://www.linkedin.com/posts/stephenschmidt1_secure-by-design-aws-to-enhance-mfa-requirements-activity-7115014128875773952-DCJ4",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "CONGRATULATIONS to the Amazon Global Air team and our internal and external partners on the launch of the fleet's first Airbus A330, Momentum!…",
+      "link": "https://www.linkedin.com/posts/sarah-c-rhoads-a9385029_congratulations-to-the-amazon-global-air-activity-7115127539768967168-hL9d",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "I had the privilege of spending the day in Newark, witnessing the excitement around Amazon Shipping, our all-new ground shipping service for Amazon…",
+      "link": "https://www.linkedin.com/posts/prakash-rochlani-b844414_i-had-the-privilege-of-spending-the-day-in-activity-7115345382322118656-UpGx",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "It doesn’t get much better than spending time with teammates and giving back. Last week, I got to help wrap-up our Global Month of Volunteering by…",
+      "link": "https://www.linkedin.com/posts/brian-olsavsky-601ba1_gmv-activity-7115495045021003776-7xfu",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "Congrats to our Project Kuiper team and partner United Launch Alliance (ULA) on today’s successful launch and the start of Kuiper’s prototype…",
+      "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_congrats-to-our-project-kuiper-team-and-partner-activity-7116200581337124864-Lnjf",
+      "activity_status": "Shared by Andy Jassy"
+    },
+    {
+      "title": "We just announced that Amazon is hiring 250,000 people in full-time, part-time, and seasonal fulfillment center and transportation roles in hundreds…",
+      "link": "https://www.linkedin.com/posts/amazon-is-hiring-250000-employees-for-the-activity-7110057377554432002-Mppy",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "For the first time at Amazon, we’re quantifying the economic impact that our renewable energy projects have generated for local communities. What we…",
+      "link": "https://www.linkedin.com/posts/heres-the-surprising-state-getting-a-boost-activity-7113298793017573376-PVQ8",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "The critics have spoken! From the world of The Boys, Gen V premieres tonight on Prime Video!",
+      "link": "https://www.linkedin.com/posts/andie-green-30731850_the-critics-have-spoken-from-the-world-of-activity-7113290965611679745-5FVs",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "Amazon Bedrock will change what's possible for businesses, big and small. Amazon Bedrock, avail today, allows companies to take foundational models…",
+      "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_aws-announces-the-general-availability-of-activity-7113186101439201280-olRN",
+      "activity_status": "Shared by Andy Jassy"
+    },
+    {
+      "title": "Being involved in my community has been one of the most rewarding elements of my life the last 15 years. Was great to be with teammates last week to…",
+      "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_being-involved-in-my-community-has-been-one-activity-7112828713574027264-H--3",
+      "activity_status": "Shared by Andy Jassy"
+    },
+    {
+      "title": "Excited to share we’re expanding our collaboration with Anthropic. AWS will now be Anthropic’s primary cloud provider and help build, train, and…",
+      "link": "https://www.linkedin.com/posts/andy-jassy-8b1615_excited-to-share-were-expanding-our-collaboration-activity-7112052187530235904-ZCg8",
+      "activity_status": "Shared by Andy Jassy"
+    },
+    {
+      "title": "I recently got to join the leadership team of Asians@Amazon, one of Amazon’s 13 affinity groups, for their annual leadership summit. I’ve had the…",
+      "link": "https://www.linkedin.com/posts/doug-herrington_i-recently-got-to-join-the-leadership-team-activity-7110399639626911744-JZiw",
+      "activity_status": "Liked by Andy Jassy"
+    },
+    {
+      "title": "September marks my first full year as CEO of Whole Foods Market, and what an incredible 12 months it’s been. One of the best parts, without a doubt…",
+      "link": "https://www.linkedin.com/posts/jasonbuechel_teamwfm-activity-7110766216297779200-w4-1",
+      "activity_status": "Liked by Andy Jassy"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Andy Jassy",
+      "link": "https://de.linkedin.com/in/andy-jassy-647509285",
+      "summary": null,
+      "location": "Munich"
+    },
+    {
+      "name": "Andy Jassy",
+      "link": "https://www.linkedin.com/in/andy-jassy-662893223",
+      "summary": null,
+      "location": "Okemos, MI"
+    }
+  ],
+  "articles": [],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": ["ajassy@amazon.com", "andrew@allthingsdistributed.com"],
+  "personal_numbers": []
+}

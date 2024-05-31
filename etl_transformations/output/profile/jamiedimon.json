@@ -1,0 +1,249 @@
+{
+  "public_identifier": "jamiedimon",
+  "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/jamiedimon/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240305%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240305T184545Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=366c7d670601688b057e0b4ff970053438db33ee056feb3d269a1c8a7391d3d7",
+  "background_cover_image_url": null,
+  "first_name": "Jamie",
+  "last_name": "Dimon",
+  "full_name": "Jamie Dimon",
+  "follower_count": 1444312,
+  "occupation": "Chairman of the Board at JPMorgan Chase",
+  "headline": "Chairman and CEO of JPMorgan Chase & Co.",
+  "summary": "Jamie Dimon became Chairman of the Board on December 31, 2006, and has been Chief Executive Officer and President since December 31, 2005. He had been President and Chief Operating Officer since JPMorgan Chase's merger with Bank One Corporation in July 2004. At Bank One he had been Chairman and Chief Executive Officer since March 2000. Prior to joining Bank One, Mr. Dimon had extensive experience at Citigroup Inc., the Travelers Group, Commercial Credit Company and American Express Company.\n\nMr. Dimon graduated from Tufts University in 1978 and received an MBA from Harvard Business School in 1982. He is a director of The College Fund/UNCF and serves on the Board of Directors of The Federal Reserve Bank of New York, The National Center on Addiction and Substance Abuse, Harvard Business School and Catalyst. He is also on the Board of Trustees of New York University School of Medicine. Mr. Dimon does not serve on the board of any publicly traded company other than JPMorgan Chase.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": null,
+  "state": null,
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2006
+      },
+      "ends_at": null,
+      "company": "JPMorgan Chase",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jpmorganchase",
+      "title": "Chairman of the Board",
+      "description": null,
+      "location": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFN7ZGRjNcgeA/company-logo_400_400/0/1656681489601/jpmorganchase_logo?e=1716422400&v=beta&t=5nRELVKtgXjjz1lwz-2Qd6stJm3-H2nFKHkb_zQjYMI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2005
+      },
+      "ends_at": null,
+      "company": "JPMorgan Chase",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jpmorganchase",
+      "title": "Chief Executive Officer and President",
+      "description": null,
+      "location": "Greater New York City Area",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFN7ZGRjNcgeA/company-logo_400_400/0/1656681489601/jpmorganchase_logo?e=1716422400&v=beta&t=5nRELVKtgXjjz1lwz-2Qd6stJm3-H2nFKHkb_zQjYMI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 7,
+        "year": 2004
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2005
+      },
+      "company": "JPMorgan Chase",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/jpmorganchase",
+      "title": "President and Chief Operating Officer",
+      "description": null,
+      "location": "Greater New York City Area",
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQFN7ZGRjNcgeA/company-logo_400_400/0/1656681489601/jpmorganchase_logo?e=1716422400&v=beta&t=5nRELVKtgXjjz1lwz-2Qd6stJm3-H2nFKHkb_zQjYMI"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2000
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 7,
+        "year": 2004
+      },
+      "company": "Bank One",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/bank-one",
+      "title": "Chairman and Chief Executive Officer",
+      "description": null,
+      "location": null,
+      "logo_url": null
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1982
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Master of Business Administration (MBA)",
+      "school": "Harvard Business School",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/4867/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4D0BAQF_DkXTlZVo1w/company-logo_400_400/0/1639781479259/harvard_business_school_logo?e=1716422400&v=beta&t=eOcOSWTkIzd86Uep8mM5E6D87eRJ7GrXqHk-vt3dd-M",
+      "grade": null,
+      "activities_and_societies": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 1978
+      },
+      "ends_at": null,
+      "field_of_study": null,
+      "degree_name": "Bachelor of Arts (B.A.)",
+      "school": "Tufts University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/company/157341/",
+      "description": null,
+      "logo_url": "https://media.licdn.com/dms/image/C4E0BAQH_656Vr-3pxA/company-logo_400_400/0/1631326600842?e=1716422400&v=beta&t=ZNlZN2WAUOV-SE3ZZW5MkXY8HpLI6etLJOGoLMiEo8A",
+      "grade": null,
+      "activities_and_societies": null
+    }
+  ],
+  "languages": [],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [],
+  "certifications": [],
+  "connections": 0,
+  "people_also_viewed": [],
+  "recommendations": [],
+  "activities": [
+    {
+      "title": "One year ago JPMorgan Chase & Co. made a $30 billion Racial Equity Commitment to help close the racial wealth gap. This commitment is just the…",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Shared by Jamie Dimon"
+    },
+    {
+      "title": "One in three American adults — more than 70 million people — have some type of criminal record. To put this in perspective, about the same number of…",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Shared by Jamie Dimon"
+    },
+    {
+      "title": "We must all remain committed to addressing climate change, it continues to be one of the most critical issues of our time. As part of our firm’s…",
+      "link": "https://www.linkedin.com/signup/cold-join",
+      "activity_status": "Shared by Jamie Dimon"
+    },
+    {
+      "title": "Today I released my annual letter to shareholders, discussing the many challenges we face at every turn: a pandemic, unprecedented government…",
+      "link": "https://www.linkedin.com/posts/jamie-dimon-65634172_today-i-released-my-annual-letter-to-shareholders-share-6916720023960985600-K3AQ",
+      "activity_status": "Shared by Jamie Dimon"
+    },
+    {
+      "title": "One year ago JPMorgan Chase & Co. made a $30 billion Racial Equity Commitment to help close the racial wealth gap. This commitment is just the…",
+      "link": "https://www.linkedin.com/posts/jpmorganchase_an-update-on-our-30-billion-racial-equity-share-6858734291245965312-xI-m",
+      "activity_status": "Shared by Jamie Dimon"
+    },
+    {
+      "title": "One in three American adults — more than 70 million people — have some type of criminal record. To put this in perspective, about the same number of…",
+      "link": "https://www.linkedin.com/posts/jamie-dimon-65634172_one-in-three-american-adults-more-than-share-6828652648305045504-fgm4",
+      "activity_status": "Shared by Jamie Dimon"
+    }
+  ],
+  "similarly_named_profiles": [
+    {
+      "name": "Jamie Dimon",
+      "link": "https://www.linkedin.com/in/jamie-dimon-38153318a",
+      "summary": "Delivery Manager, Technology at The Select Group",
+      "location": "Raleigh, NC"
+    },
+    {
+      "name": "Jamie Dimon",
+      "link": "https://www.linkedin.com/in/jamie-dimon-99714a67",
+      "summary": "Inventory Control Coord. at Staples Print Solutions",
+      "location": "Fort Worth, TX"
+    },
+    {
+      "name": "Jamie Dimon",
+      "link": "https://hk.linkedin.com/in/jamie-dimon-6b8686182",
+      "summary": "Student at Harvard University",
+      "location": "Hong Kong SAR"
+    },
+    {
+      "name": "Jamie Dimon",
+      "link": "https://de.linkedin.com/in/jamie-dimon-1b2718219",
+      "summary": "Recruiter bei Selbständig",
+      "location": "Horstmar"
+    },
+    {
+      "name": "Jamie Dimon",
+      "link": "https://www.linkedin.com/in/jamie-dimon",
+      "summary": "Technical Sourcer at Pure Storage",
+      "location": "Raleigh, NC"
+    }
+  ],
+  "articles": [
+    {
+      "title": "An Update on JPMorgan Chase’s Response to COVID-19",
+      "link": "https://www.linkedin.com/pulse/update-jpmorgan-chases-response-covid-19-jamie-dimon",
+      "published_date": {
+        "day": 19,
+        "month": 5,
+        "year": 2020
+      },
+      "author": "By Jamie Dimon",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4D12AQHB449I3PEtfA/article-cover_image-shrink_180_320/0/1589887116020?e=2147483647&v=beta&t=IwnY2KVdn6YMK1kG-Re_vY7DsHzehpPVv2nw3_ao7-w"
+    },
+    {
+      "title": "An opportunity to do better",
+      "link": "https://www.linkedin.com/pulse/opportunity-do-better-jamie-dimon",
+      "published_date": {
+        "day": 13,
+        "month": 1,
+        "year": 2019
+      },
+      "author": "By Jamie Dimon",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C5612AQH0PYhey90x6A/article-cover_image-shrink_180_320/0/1576273065904?e=2147483647&v=beta&t=wmnhpYvFTLnGHlXFqAUCgRu89K6MRms4VwOTGIHh1TQ"
+    },
+    {
+      "title": "Investing in our people, business & communities for long-term growth",
+      "link": "https://www.linkedin.com/pulse/investing-our-people-business-communities-long-term-growth-dimon",
+      "published_date": {
+        "day": 23,
+        "month": 1,
+        "year": 2018
+      },
+      "author": "By Jamie Dimon",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C5612AQFd21efmOYenw/article-cover_image-shrink_180_320/0/1520130896076?e=1651104000&v=beta&t=_CDh-QxNRP5Oy_95WDfquQ0WWtroQP_QTsWR50KE3pU"
+    },
+    {
+      "title": "JPMorgan Chase Releases 2021 ESG Report Detailing Efforts to Advance a Sustainable and Inclusive Economy",
+      "link": "https://www.linkedin.com/pulse/jpmorgan-chase-releases-2021-esg-report-detailing-efforts-jamie-dimon",
+      "published_date": {
+        "day": 19,
+        "month": 1,
+        "year": 2022
+      },
+      "author": "By Jamie Dimon",
+      "image_url": "https://media-exp1.licdn.com/dms/image/C4D12AQFLj-PwJ3P5jg/article-cover_image-shrink_180_320/0/1650370367822?e=2147483647&v=beta&t=Kf1XCjhAxadI9V-7QxS8_fcxDhXa3rSofcPTeAmom4A"
+    }
+  ],
+  "groups": [],
+  "skills": [],
+  "inferred_salary": null,
+  "gender": null,
+  "birth_date": null,
+  "industry": null,
+  "extra": null,
+  "interests": [],
+  "personal_emails": [],
+  "personal_numbers": []
+}
